@@ -1,4 +1,17 @@
-## Hi there 👋
+# Brandon Bennett
+
+## Skills & Experience
+
+### Web Development
+
+### Data Analysis
+
+### Other
+
+
+## Some of My Projects
+
+- *Insert Projects Here"
 
 <!--
 **BanditBob/BanditBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
