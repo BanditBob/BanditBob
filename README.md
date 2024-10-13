@@ -30,4 +30,4 @@ Skills:
 
 ## Some of My Projects
 
-- *Insert Projects Here"
+- *Insert Projects Here*
