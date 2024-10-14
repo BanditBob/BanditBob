@@ -17,8 +17,6 @@ Skills:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BanditBob)
 
 
-## Skills & Experience
-
 ### Web Development
 
 ### Data Analysis
